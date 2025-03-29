@@ -17,4 +17,4 @@ While the initial version of the project has proven useful, I aim to introduce f
 - **Improving the design** to make the device more compact, durable, and easier to install and use in different farming environments.  
 
 ## Open for Collaboration
-This project was developed with a farmer-first approach, and I hope to continue improving it with the right expertise and feedback. I welcome collaboration from those interested in IoT, data analytics, or agricultural technology to help refine the system further. If you have ideas, suggestions, or would like to contribute to this project, feel free to reach out. Together, we can enhance the efficiency and sustainability of modern farming.
+This project was developed with a farmer-first approach, and I hope to continue improving it with the right expertise and feedback. I welcome collaboration from those interested in IoT, data analytics, or agricultural technology to help refine the system further. If you have ideas, suggestions, or would like to contribute to this project, feel free to reach out. 
