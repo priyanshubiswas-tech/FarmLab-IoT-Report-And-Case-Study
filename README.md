@@ -1,8 +1,8 @@
 ## FarmLab-IoT-Report-And-Case-Study
-### Smart Farming Device – Farmer-Centric Agricultural Innovation
+
 This project, completed in 2023, was aimed at improving farming practices by directly addressing the challenges faced by farmers. The approach was centered on real-world problem-solving, achieved through live interviews and case studies with farmers. Instead of assuming their needs, I engaged with them to understand their daily struggles, inefficiencies in traditional farming methods, and the kind of assistance they required. These discussions provided firsthand insights, which became the foundation for designing a device tailored to their specific requirements.
 
-### Understanding the Farmers’ Needs
+### Case study: Understanding the Farmers’ Needs
 To ensure the device was genuinely beneficial, I conducted case studies and live interviews with farmers, focusing on their work patterns, environmental difficulties, and technological barriers. The goal was to create a practical solution that would integrate seamlessly into their existing workflow. Farmers highlighted concerns such as irregular weather conditions, inefficient irrigation management, soil health monitoring, and the lack of real-time data for decision-making. Their inputs played a crucial role in shaping the device’s functionalities, making it a tool that directly addresses their problems rather than a generic solution.
 
 ### Device Features and Functionality
